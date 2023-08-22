@@ -9,7 +9,7 @@
 
 ## 인증 📸
 
-### Programmers - 베스트앨범
+### Programmers Lv3. 베스트앨범
 <details close>
   <summary> 코드 보기 </summary>
   <img src="https://i.imgur.com/jHzezPP.png">
@@ -19,7 +19,7 @@
 </details>
 <br/>
 
-### Programmers - 이중우선순위큐
+### Programmers Lv3. 이중우선순위큐
 <details close>
   <summary> 코드 보기 </summary>
   <img src="https://i.imgur.com/UfQ62ll.png">
@@ -29,7 +29,7 @@
 </details>
 <br/>
 
-### Programmers - 오랜 기간 보호한 동물(1)
+### (SQL) Programmers Lv3. 오랜 기간 보호한 동물(1)
 <details close>
   <summary> 코드 보기 </summary>
   <img src="https://i.imgur.com/VpvXrqK.png">
@@ -44,7 +44,6 @@
   <summary> 내용 보기 </summary>
   <blockquote>
   <p>
-<br/>
 
 **3장 사용자 관리 - UserDetailsService**
 
