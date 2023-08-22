@@ -70,6 +70,7 @@ UserDetailsService와 UserDetailsManager는 서로 분리되어 있는데, 이�
 - 사용자를 관리하는 기능도 필요할 경우 -> UserDetailsManager까지 구현
 
 **[UserDetails 구현체 정의]**
+
 Spring Security를 충분히 활용하여 사용자 인증을 하려고 한다면 UserDetails 인터페이스의 구현체를 정의해야 한다.
 Spring Security는 UserDetails를 정의할 때 사용할 수 있는 User, UserBuilder, GrantedAuthority 등을 제공한다.
 
