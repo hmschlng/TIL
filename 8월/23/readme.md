@@ -3,7 +3,7 @@
 |분류|✏️ 할 일|💭 설명|✅ 완료 |
 |-|-|-|-|
 | Algo | Programmers - 정수 삼각형 | `Lv3` / `DP` |<ul><li>- [x] </li></ul>|
-| Algo | Programmers - 이중우선순위큐 | `Lv3` / `자료구조(Heap)` |<ul><li>- [x] </li></ul>|
+| Algo | Programmers - 이중우선순위큐 | `Lv3` / `DP` |<ul><li>- [x] </li></ul>|
 | SQL | Programmers - 오랜 기간 보호한 동물(2) | `Lv3` / `JOIN` | <ul><li>- [x] </li></ul> |
 | CS | SSIA ch4 공부 | 책 읽고 정리 | <ul><li>- [x] </li></ul> |
 
