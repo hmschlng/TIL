@@ -2,10 +2,10 @@
 
 |분류|✏️ 할 일|💭 설명|✅ 완료 |
 |-|-|-|-|
-| Algo | Programmers - 정수 삼각형 | `Lv3` / `DP` |[x]|
-| Algo | Programmers - 이중우선순위큐 | `Lv3` / `자료구조(Heap)` |[x]|
-| SQL | Programmers - 오랜 기간 보호한 동물(2) | `Lv3` / `JOIN` | [x] |
-| CS | SSIA ch4 공부 | 책 읽고 정리 | [x] |
+| Algo | Programmers - 정수 삼각형 | `Lv3` / `DP` |<ul><li>- [x] </li></ul>|
+| Algo | Programmers - 이중우선순위큐 | `Lv3` / `자료구조(Heap)` |<ul><li>- [x] </li></ul>|
+| SQL | Programmers - 오랜 기간 보호한 동물(2) | `Lv3` / `JOIN` | <ul><li>- [x] </li></ul> |
+| CS | SSIA ch4 공부 | 책 읽고 정리 | <ul><li>- [x] </li></ul> |
 
 ## 인증 📸
 
@@ -39,11 +39,12 @@
 </details>
 <br/>
 
-### Spring Security In Action ch3 공부
+### Spring Security In Action ch4 공부
 <details open>
   <summary> 내용 보기 </summary>
   <blockquote>
   <p>
+
 `암호 처리 - PasswordEncoder`
 
 PasswordEncoder는 암호 validation을 위한 컴포넌트로, Spring Security에서는 암호 관리를 위한 SSCM(Spring Security Crypto Module)이라는 암호화 모듈에서 제공한다.
