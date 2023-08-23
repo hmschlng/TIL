@@ -14,7 +14,7 @@
   <summary> 코드 보기 </summary>
   <img src="https://i.imgur.com/Xa6oVHT.jpg">
   <p>
-    그리디를 사용하여 구현
+    dp를 사용해 구현
   </p>
 </details>
 <br/>
@@ -24,7 +24,7 @@
   <summary> 코드 보기 </summary>
   <img src="https://i.imgur.com/8NaC5XI.jpg">
   <p>
-    TreeMap을 사용해 구현
+    dp를 사용해 구현
   </p>
 </details>
 <br/>
@@ -34,7 +34,7 @@
   <summary> 코드 보기 </summary>
   <img src="https://i.imgur.com/3jvHC83.jpg">
   <p>
-    HashMap과 PQ를 사용하여 구현
+    inner join을 사용하여 구현
   </p>
 </details>
 <br/>
