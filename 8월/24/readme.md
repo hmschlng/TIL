@@ -1,4 +1,4 @@
-# 2023. 08. 22 
+# 2023. 08. 24
 
 |분류|✏️ 할 일|💭 설명|✅ 완료 |
 |-|-|-|-|
@@ -6,7 +6,7 @@
 | Algo | Programmers - 네트워크 | `Lv3` / `BFS` |<ul><li>- [x] </li></ul>|
 | Algo | Programmers - 최고의 집합 | `Lv3` / `비둘기집` |<ul><li>- [x] </li></ul>|
 | SQL | Programmers - 있었는데요 없었습니다 | `Lv3` / `JOIN` | <ul><li>- [x] </li></ul> |
-| CS | User Entity와 UserDetails 책임 분리 방식 테스트 | 벤치마크 테스트를 통해 책임 분리 설계가 오버헤드를 유발하는 지 체크 | <ul><li>- [x] </li></ul> |
+| CS | User Entity와 UserDetails 책임 분리 보충 공부 | 리서치 후 구현 방법 찾아보기 | <ul><li>- [x] </li></ul> |
 
 ## 인증 📸
 
