@@ -5,7 +5,7 @@
 | Algo | Programmers - 야근 지수 | `Lv3` / `Heap` |<ul><li>- [x] </li></ul>|
 | Algo | Programmers - 단어 변환 | `Lv3` / `BFS` |<ul><li>- [x] </li></ul>|
 | SQL | Programmers - 없어진 기록 찾기 | `Lv3` / `JOIN` | <ul><li>- [x] </li></ul> |
-| SQL | Programmers - 조건에 맞는 사용자 정보 찾기 | `Lv3` / `HAVING` / 'CONCAT' | <ul><li>- [x] </li></ul> |
+| SQL | Programmers - 조건에 맞는 사용자 정보 찾기 | `Lv3` / `HAVING` / `CONCAT` | <ul><li>- [x] </li></ul> |
 | CS | SSIA ch5 나머지 공부 | 책 읽고 정리 | <ul><li>- [x] </li></ul> |
 
 ## 인증 📸
